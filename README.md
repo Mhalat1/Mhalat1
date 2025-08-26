@@ -1,1 +1,1 @@
-![Mon GIF](assets/tux.gif)
+![Tux code](tux.gif)
